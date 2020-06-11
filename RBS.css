@@ -1,0 +1,76 @@
+body {
+    /*border: 2px solid black;*/
+   /* background:url("https://www.publicdomainpictures.net/pictures/140000/nahled/green-field-and-blue-sky-1446458468c5i.jpg");
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+    height: auto;*/
+    padding: 0.2%;
+}
+
+
+.header{
+    background-color: antiquewhite;
+    opacity: 0.6;
+    text-align: center;
+    padding: 0.2%;
+        
+}
+
+.brand {
+    font-size: 1.5em;
+    background-color: aliceblue;
+    border: 2px outset grey;
+    padding: 0.5%;   
+}
+
+.nav{
+    padding-left: 4%;
+}
+
+.nav a{
+    padding: 0 2%; 
+    border: 2px outset grey;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.main{
+    background:url("https://www.publicdomainpictures.net/pictures/140000/nahled/green-field-and-blue-sky-1446458468c5i.jpg");
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+    height: auto;
+    padding: 0.4%;
+}
+
+.container{
+   background-color: rgb(137, 213, 254, 0.8);
+    padding: 2%;
+    border-radius: 1%;
+    border: 5px ridge white;
+    
+}
+
+h1{
+    text-align: center;
+    text-shadow: 2px 1px white;
+}
+
+#mission{
+    text-align: center;
+}
+
+span{
+    font-size: 1.2em;
+    text-shadow: 2px 1px white;
+}
+
+p{
+    text-indent: 5%;
+}
+
+
+
